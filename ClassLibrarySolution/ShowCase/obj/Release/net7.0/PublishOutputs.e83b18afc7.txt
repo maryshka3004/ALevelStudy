@@ -1,0 +1,7 @@
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\ShowCase.exe
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\ShowCase.dll
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\ShowCase.deps.json
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\ShowCase.runtimeconfig.json
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\ShowCase.pdb
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\StringLibrary.dll
+D:\Програмирование\ClassLibrarySolution\ShowCase\bin\Release\net7.0\publish\StringLibrary.pdb

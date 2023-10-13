@@ -1,0 +1,11 @@
+D:\Програмирование\ClassLibrarySolution\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+D:\Програмирование\ClassLibrarySolution\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+D:\Програмирование\ClassLibrarySolution\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+D:\Програмирование\ClassLibrarySolution\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
