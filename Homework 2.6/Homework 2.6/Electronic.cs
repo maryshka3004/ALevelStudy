@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Homework_2._6
+{
+    public abstract class Electronic : Device
+    {
+        public bool PluggedIn { get; private set; }
+
+        protected Electronic (string deviceName, int consumption) : base(deviceName, consumption)
+        {
+            PluggedIn = false;
+        }
+
+        public override void PlugIn()
+        {
+            PluggedIn = true;
+            Console.WriteLine($"{DeviceName} is plugged in.");
+        }
+    }
+}
